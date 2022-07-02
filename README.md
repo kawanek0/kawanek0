@@ -24,9 +24,7 @@
 ## 💻Tech Stack: Languages and Tools
  
 ![Python](https://img.shields.io/badge/python-5b96c8?style=for-the-badge&logo=python&logoColor=fdfd96)
-
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=fdfd96)
-
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=fdfd96)
 
 
