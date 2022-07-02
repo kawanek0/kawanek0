@@ -7,8 +7,8 @@
 <img alt="Jacob Kendall's GitHub stats" align="left" width="80%" src="https://github-readme-stats.vercel.app/api?username=kawanek0&show_icons=true&theme=highcontrast" />
 <img alt="Common Languages" align="left" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanek0&layout=compact&theme=highcontrast" />
 
-<br>
+<br/>
 
-<h2><br>🐱 About Me 🐱</h2>
+<h2>🐱 About Me 🐱</h2>
 ***
 
