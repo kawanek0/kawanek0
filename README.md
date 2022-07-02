@@ -6,6 +6,8 @@
 ***
 <img alt="Jacob Kendall's GitHub stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kawanek0&show_icons=true&theme=highcontrast" />
 
+<br>
+
 <h2>🐱 About Me 🐱</h2>
 ***
 
