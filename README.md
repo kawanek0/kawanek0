@@ -9,6 +9,6 @@
 
 <br>
 
-<h2 width=100%>🐱 About Me 🐱</h2>
+<h2><br>🐱 About Me 🐱</h2>
 ***
 
