@@ -1,8 +1,8 @@
 ## Stats at a Glimpse 📊
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawanek0&label=Profile%20views&color=yellow&style=flat" alt="kawanek0" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=kawanek0&theme=highcontrast&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanek0&theme=highcontrast&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kawanek0&theme=highcontrast&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanek0&theme=highcontrast&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=false&layout=compact)
 
 
 
