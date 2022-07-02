@@ -7,7 +7,7 @@
 
 
 
-## About Me 👨‍💼👨‍💻
+## About Me 🐱
  
 <p>A developer seeking to advance freedom of expression. All projects will be named related to anime or MLP characters I like.</p>
 
@@ -21,7 +21,7 @@
 
 
 
-## 💻Tech Stack: Languages and Tools
+## Tools 💻
  
 ![Python](https://img.shields.io/badge/python-5b96c8?style=for-the-badge&logo=python&logoColor=fdfd96)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=fdfd96)
@@ -30,12 +30,12 @@
 
 
 
-## Contact Me 🌐 
+## Contact Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivankudaywal)
 
 
 
 
-## 🏆GitHub Trophies
+## Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=kawanek0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
