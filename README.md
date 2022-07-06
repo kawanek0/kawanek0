@@ -13,7 +13,7 @@
 
 - Weapon: Python
 - Shield: Web scraping
-- Values: Free Speech, Capitalism
+- Values: Freedom of Expression, Capitalism
 - Favorite anime: Oreimo
 - Favorite manga: Nisekoi
 - Favorite pony: Rarity
